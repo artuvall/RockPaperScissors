@@ -15,7 +15,7 @@ function getComputerChoice() {
     } else {
         return "scissors";
     }
-}
+} 
 
 function playRound(humanChoice, computerChoice) {
     let humanInput = humanChoice.toLowerCase();
