@@ -58,7 +58,7 @@ function playGame() {
     }
 }
 
-playGame();
+//playGame();
 
 //console.log("The Human has chosen" + " " + getHumanChoice());
 
